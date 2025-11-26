@@ -1,5 +1,5 @@
 # do-droplet-basics
-Basics to prepare secure droplet for production ready environment available on [Netlify](https://do-droplet-basics.netlify.app/)
+Basics to prepare secure droplet for production ready environment available on [DigitalGarden](https://digitalgarden.ilajna.live/) 
 
 ## Why this repository?
 To help others (beginners like me) to build secure [digitalocean droplets](https://www.digitalocean.com/products/droplets/) effectively.
