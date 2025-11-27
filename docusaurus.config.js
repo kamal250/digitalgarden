@@ -1,18 +1,18 @@
 module.exports = {
-  title: "DO Droplet Basics",
-  tagline: "Basics to prepare secure droplet for production ready environment",
-  url: "https://do-droplet-basics.netlify.app",
+  title: "Web Server & Server-Admin Docs — Ilajna's Digital Garden",
+  tagline: "A curated digital garden of web-server guides, shell commands, configs and dev notes — perfect for developers seeking practical tutorials and real-world references.",
+  url: "https://digitalgarden.ilajna.live",
   baseUrl: "/",
   onBrokenLinks: "throw",
-  favicon: "img/favicon.ico",
-  organizationName: "iFlair Web Technologies", // Usually your GitHub org/user name.
-  projectName: "do-droplet-basics", // Usually your repo name.
+  favicon: "img/favicon.png",
+  organizationName: "Ilajna", // Usually your GitHub org/user name.
+  projectName: "DigitalGarden", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "DO Droplet Basics",
+      title: "Ilajna's Digital Garden",
       logo: {
-        alt: "Basics to prepare secure droplet for production ready environment",
-        src: "img/logo.svg",
+        alt: "A curated digital garden of web-server guides, shell commands, configs and dev notes — perfect for developers seeking practical tutorials and real-world references.",
+        src: "img/digitalgarden.png",
       },
       items: [
         {
@@ -102,7 +102,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} do-droplet-basics - Built with Docusaurus and Love for ilajna.`,
+      copyright: `Copyright © ${new Date().getFullYear()} DigitalGarden - Built with Docusaurus and Love for ilajna.`,
     },
   },
   presets: [
@@ -112,7 +112,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/kamal250/do-droplet-basics/edit/master/",
+          editUrl: "https://github.com/kamal250/digitalgarden/edit/master/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
