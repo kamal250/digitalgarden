@@ -4,7 +4,7 @@ module.exports = {
   url: "https://digitalgarden.ilajna.live",
   baseUrl: "/",
   onBrokenLinks: "throw",
-  favicon: "img/favicon.png",
+  favicon: "img/favicon.ico",
   organizationName: "Ilajna", // Usually your GitHub org/user name.
   projectName: "DigitalGarden", // Usually your repo name.
   themeConfig: {
